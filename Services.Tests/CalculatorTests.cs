@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using CalculationServices;
-using NUnit.Framework;
+﻿using NUnit.Framework;
+using Services.Core;
 
 namespace Services.Tests
 {

@@ -1,4 +1,4 @@
-﻿namespace CalculationServices
+﻿namespace Services.Core
 {
     /// <summary>
     /// Contains methods

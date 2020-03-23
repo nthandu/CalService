@@ -1,13 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Razor.Language.CodeGeneration;
-using Microsoft.CodeAnalysis.CSharp.Syntax;
 
-namespace CalculationServices
+namespace Services.Core
 {
     public class Calculator : ICalculator
     {
